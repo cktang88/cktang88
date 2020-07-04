@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is the place where most of my public code is stored. Mostly you'll find JavaScript/TypeScript stuff, but I'm also a fan of Python, Golang, decentralized tech, blockchain (yeah I know), tools that optimize developer productivity, and more. 
+
+Feel free to browse, watch, star or fork my code! 
+
+Happy coding! :sunglasses: :computer:
+
 <!--
 **cktang88/cktang88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
