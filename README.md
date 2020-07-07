@@ -25,6 +25,7 @@ Random interesting things on Github:
 Random code things not on Github:
 - [infamous regex parsing html answer](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [about branch misprediction](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+- [why chucknorris is a color](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color/8333464#8333464)
 
 <!--
 **cktang88/cktang88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
