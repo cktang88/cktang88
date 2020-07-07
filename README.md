@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-This is the place where most of my public code is stored. Mostly you'll find JavaScript/TypeScript stuff, but I'm also a fan of Python, Golang, decentralized tech, blockchain (yeah I know), tools that optimize developer productivity, and more. 
+This is the place where most of my public code is stored. Mostly you'll find JavaScript/TypeScript stuff, but I'm also a fan of Python, Golang, decentralized tech, blockchain (yeah I know), [tools](https://github.com/cktang88/mydevenv) that optimize developer productivity, and more. 
 
 Feel free to browse, watch, star or fork my code! 
 
 Happy coding! :sunglasses: :computer:
+
+PS - I may or may not start a blog [:speech_balloon:](https://kwuang.me/)
+
+
+And if you are a fan of Ascii games (this one I didn't make): 
+
+<a href="https://candybox2.github.io/candybox/" target="_blank"><img src="https://raw.githubusercontent.com/candybox2/candybox2.github.io/master/favicon.png" alt="asdf" height="30" width="30"></a>
+
 
 <!--
 **cktang88/cktang88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://candybox2.github.io/candybox/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C560BAQFb1VUOZvPyVg/company-logo_200_200/0?e=2159024400&v=beta&t=xN_rQfUWsf6Pf9Pq5n3EyEV4-3bamvdEA7fX-R5ykuU" alt="asdf" height="60" width="60"></a>
