@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-This is the place where most of my public code is stored. Mostly you'll find JavaScript/TypeScript stuff, but I'm also a fan of Python, Golang, decentralized tech, blockchain (yeah I know), [tools](https://github.com/cktang88/mydevenv) that optimize developer productivity, and more. 
+Builder, maker, dreamer, engineer, aspiring founder. :sunglasses: :computer:
 
-Feel free to browse, watch, star or fork my code! 
+**Favorite programming languges:** TypeScript, Python, Golang
 
-Happy coding! :sunglasses: :computer:
+**Areas of interest:** decentralized tech, blockchain (yeah I know), [tools](https://github.com/cktang88/mydevenv) that optimize developer productivity, and more. 
 
-PS - I may or may not start a blog [:speech_balloon:](https://kwuang.me/)
+:speech_balloon: very WIP blog: https://kwuang.me/
 
 
 And if you are a fan of Ascii games (this one I didn't make): 
