@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friends! 👋
 
 Builder, maker, dreamer, engineer, aspiring founder. :sunglasses: :computer:
 
@@ -8,6 +8,7 @@ Builder, maker, dreamer, engineer, aspiring founder. :sunglasses: :computer:
 
 :speech_balloon: very WIP blog: https://kwuang.me/
 
+![](https://github-readme-stats.vercel.app/api?username=cktang88&show_icons=true&hide_border=true&count_private=true)
 
 And if you are a fan of Ascii games (this one I didn't make): 
 
