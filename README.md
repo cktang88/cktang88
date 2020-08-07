@@ -4,7 +4,7 @@ Builder, maker, dreamer, engineer, aspiring founder. :sunglasses: :computer:
 
 **Favorite programming languges:** TypeScript, Python, Golang
 
-**Areas of interest:** decentralized tech, blockchain (yeah I know), [tools](https://github.com/cktang88/mydevenv) that optimize developer productivity, and more. 
+**Areas of interest:** full-stack web dev, decentralized tech/blockchain (yeah I know), [tools](https://github.com/cktang88/mydevenv) that optimize developer productivity, and more. 
 
 :speech_balloon: very WIP blog: https://kwuang.me/
 
