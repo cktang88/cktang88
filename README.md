@@ -2,7 +2,7 @@
 
 Engineer, aspiring founder. :sunglasses: :computer:
 
-**Areas of interest:** full-stack web dev, crypto/DeFi, [dev tools](https://github.com/cktang88/mydevenv), 3D/digital art, animation, security, and pretty much everything else. 
+**Areas of interest:** full-stack web dev, LLMs, [dev tools](https://github.com/cktang88/mydevenv), 3D/digital art, animation, security, and pretty much everything else. 
 
 And if you are a fan of Ascii games (this one I didn't make): 
 
