@@ -1,6 +1,6 @@
 ### Hello friends! 👋
 
-Engineer, aspiring founder. :sunglasses: :computer:
+Engineer, founder. :sunglasses: :computer:
 
 **Areas of interest:** full-stack web dev, LLMs, [dev tools](https://github.com/cktang88/mydevenv), 3D/digital art, animation, security, and pretty much everything else. 
 
