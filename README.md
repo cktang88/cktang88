@@ -1,8 +1,8 @@
 ### Hello friends! 👋
 
-Engineer, founder. :sunglasses: :computer:
+Founder, engineer. :sunglasses: :computer:
 
-**Areas of interest:** full-stack web dev, LLMs, [dev tools](https://github.com/cktang88/mydevenv), 3D/digital art, animation, security, and pretty much everything else. 
+**Areas of interest:** full-stack web dev, LLMs, knowledge management software, and dev tools. 
 
 And if you are a fan of Ascii games (this one I didn't make): 
 
