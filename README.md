@@ -2,7 +2,7 @@
 
 Founder, engineer. :sunglasses: :computer:
 
-**Areas of interest:** full-stack web dev, LLMs, knowledge management software, and dev tools. 
+**Areas of interest:** full-stack web dev, LLMs, AI x Gaming
 
 And if you are a fan of Ascii games (this one I didn't make): 
 
